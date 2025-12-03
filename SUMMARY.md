@@ -16,4 +16,3 @@
   * [Transitional Board of Directors](governance-bodies/transitional-board-of-directors.md)
   * [Officers](governance-bodies/officers.md)
   * [Working Groups](governance-bodies/working-groups.md)
-  * [Page](governance-bodies/page.md)
