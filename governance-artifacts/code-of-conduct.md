@@ -2,6 +2,12 @@
 description: Ayra's Code of Conduct (under development)
 ---
 
+# Our Pledge
+In the interest of fostering an open and welcoming environment, we as community members pledge to make participation in our projects and our community a harassment-free and inclusive experience for everyone.
+
+This Community Code of Conduct (“Code”) outlines our behavior expectations as members of our community in all Ayra Association activities, both offline and online. It is not intended to govern scenarios or behaviors outside of the scope of Ayra Association activities. Nor is it intended to replace or supersede the protections offered to all our community members under the law. Please follow both the spirit and letter of this Code and encourage other members to follow these principles into our work. Failure to read or acknowledge this Code does not excuse a member from compliance with the Code.
+
+
 # Code of Conduct
 
 We are working towards formal policies and procedures for our code of conduct. The Ayra Transitional Board of Directors has this as an active work item.
