@@ -17,20 +17,27 @@ NOTE: A minimum of 6 total participants, including at least 2 Ayra voting member
 
 ## **1\. Motivation and Background**
 
-TODO: 
+The Ayra Card Working Group (ACWG) is being established to formalize the Ayra Card protocol. The general idea of using the Ayra Card protocol is gaining steam at Ayra, and the need to formalize the required artifacts has become urgent. 
 
-Why was this group founded? Briefly describe technology, users, developers, implementers, industry, and/or other relevant initiating factors.
+The ACWG aims to meet the needs of all three pillars of the Ayra community:
 
-This working group is being initiated to address the need for….
+* **Business:** establishing the artifacts that the business community needs (e.g. business use cases, integration playbooks, trustmark) to use the Ayra Card protocol in their efforts.
+* **Governance:** establishing governance frameworks, trust frameworks, and policy structures that enable organizations to confidently adopt and implement the Ayra Card protocol in compliance with legal and regulatory requirements.
+* **Technology:** developing technical specifications, schemas, reference implementations, and conformance test suites that ensure interoperability and consistent implementation of the Ayra Card protocol across different platforms and vendors.
+
+This working group is being initiated to address the need for a standardized, interoperable approach to digital credential exchange in the identity ecosystem. The Ayra Card protocol has emerged as a promising solution for enabling verifiable credential presentation across diverse use cases, from employee verification to supply chain transparency. However, without formal specifications, governance frameworks, and conformance criteria, implementations risk fragmentation and incompatibility.
+
+The working group brings together implementers, developers, business stakeholders, and governance experts who recognize that successful adoption requires more than just technical specifications. Organizations need clear business cases, integration guidance, trustmarks for vendor selection, and governance frameworks that address privacy, security, and regulatory compliance. The ACWG will create these essential artifacts while maintaining the agility to iterate rapidly through proof-of-concept implementations that validate real-world utility.
 
 ## **2\. Scope**
 
-What exactly is within the purview of this group? For legal review. Be brief.
+The Ayra Card Working Group is responsible for establishing the business, governance, and technical artifacts required for the Ayra Card protocol. 
 
 The following will constitute the activities and interest areas of this working group:
 
+* Governing the **Ayra Card Proof of Concept** process, which is an ongoing set of short (60-90 day) iterations that aim to demonstrate business utility.
 * Establishment of conformance criteria that will be used in the Ayra Conformance Test Suite (CTS). 
-* Guidance of coding efforts for the Ayra CTS.
+* Governing the Ayra Card aspects of the Conformance Test Suite (CTS).
 * Establishment of schema, context documents, presentation request, and other artifacts required for full system conformance.
 * Creation of business material to bolster the case for the Ayra Card protocol.
 * Establishment and guidance of the Ayra Card Governance Framework. 
@@ -42,32 +49,101 @@ What areas or activities will not be addressed?
 
 The following will *not* be addressed by this working group:
 
-* Revisions to underlying specification (e.g. DIDComm, Aries RFCs, OID4VP). While the WG may gather inputs to provide at the SDOs that maintain the specifications, the revisions will not be conducated at Ayra.
-* 
+* Revisions to underlying specifications (e.g. DIDComm, Aries RFCs, OID4VP). While the WG may gather inputs to provide to the SDOs that maintain the specifications, the revisions will not be conducted at Ayra.
+* Wallet implementation or certification beyond conformance to Ayra Card presentation protocols.
+* Credential issuance standards or processes (except where directly related to Ayra Card presentation requirements).
+* Blockchain or distributed ledger technology selection or implementation.
+* General identity management or authentication mechanisms not specific to Ayra Card protocol.
 
 ## **3\. Deliverables**
 
-Deliverable information may be listed in a different format (e.g., a table/chart) and with different fields, according to the preferences of the founding Chair and Participants, as ratified by the Ayra Board.
+The following deliverables are planned for the Ayra Card Working Group:
 
-### **3.1 \[Name of Deliverable\]**
+### **3.1 Ayra Card Technical Specification v1.0**
 
-1. **Description**: (one-sentence explanation of deliverable)  
-   2. **Components**: (for example, candidate recommendation with snapshots)  
-   3. **Internal Release Date**: DD/MM/YYYY (time at which all Ayra members may view the deliverable)  
-   4. **Public Release Date:** DD/MM/YYYY (if known)  
-   5. **Timeline**: Example:  
-      1. Month YYYY: First teleconference  
-      2. Month YYYY: First face-to-face meeting  
-      3. Month YYYY: Requirements and Use Cases  
-      4. Month YYYY:.....
+1. **Description**: Comprehensive technical specification defining the Ayra Card protocol, including data models, message formats, and presentation flows.
+2. **Components**:
+   - Core specification document
+   - JSON Schema definitions
+   - JSON-LD context documents
+   - Presentation request templates
+   - Protocol message examples
+3. **Internal Release Date**: TBD
+4. **Public Release Date**: TBD
+5. **Timeline**:
+   1. TBD
+
+### **3.2 Conformance Test Suite (CTS) for Ayra Card**
+
+1. **Description**: Automated test suite for validating Ayra Card protocol implementations against the technical specification.
+2. **Components**:
+   - Test harness and runner
+   - Test cases covering all specification requirements
+   - Documentation for test execution
+   - Conformance reporting tools
+3. **Internal Release Date**: TBD
+4. **Public Release Date**: TBD
+5. **Timeline**:
+   1. TBD
+
+### **3.3 Ayra Card Governance Framework**
+
+1. **Description**: Governance framework defining roles, responsibilities, trust models, and policy requirements for Ayra Card ecosystem participants.
+2. **Components**:
+   - Governance framework document
+   - Trust framework principles
+   - Privacy and data protection guidelines
+   - Liability and dispute resolution guidance
+   - Sample policy templates
+3. **Internal Release Date**: TBD
+4. **Public Release Date**: TBD
+5. **Timeline**:
+   1. TBD
+
+### **3.4 Business Integration Playbook**
+
+1. **Description**: Practical guide for organizations implementing the Ayra Card protocol, including use cases, integration patterns, and ROI models.
+2. **Components**:
+   - Business use case library
+   - Integration architecture patterns
+   - Implementation guides by industry vertical
+   - ROI calculation templates
+   - Vendor evaluation criteria
+3. **Internal Release Date**: TBD
+4. **Public Release Date**: TBD
+5. **Timeline**:
+   1. TBD
+
+### **3.5 Ayra Card Trustmark Program**
+
+1. **Description**: Certification program and trustmark criteria for Ayra Card compliant implementations.
+2. **Components**:
+   - Trustmark criteria and requirements
+   - Certification process documentation
+   - Trustmark logo and usage guidelines
+   - Registry of certified implementations
+3. **Internal Release Date**: TBD
+4. **Public Release Date**: TBD
+5. **Timeline**:
+   1. TBD
+
+### **3.6 Proof of Concept (PoC) Reports**
+
+1. **Description**: Quarterly reports documenting learnings from Ayra Card PoC implementations.
+2. **Components**:
+   - PoC implementation summaries
+   - Lessons learned and best practices
+   - Technical insights and recommendations
+   - Business metrics and outcomes
+3. **Internal Release Date**: TBD
+4. **Public Release Date**: TBD
+5. **Timeline**:
+   1. TBD
 
 
-## Working Group Meetings 
+## Working Group Meetings
 
-**Schedule:** Beginning Month DD, YYYY, the Working Group  will hold (choose: weekly, bi-weekly, monthly, or specify other) meetings in two editions (optional) to accommodate global time zones:
-
-* The AM/EU/Africa meeting will be (Day) from 0X:00-0X:00 PT / XX:00-XX:00 UTC.  
-* The APAC meeting will be (Day) 0X:00-0X:00 PT / (Day \+ 1\) 0X:00-0X:00 UTC
+**Schedule:** Meeting schedule to be determined by the Working Group Chair(s) and participants based on availability and time zone distribution. The Working Group will hold regular meetings (weekly, bi-weekly, or monthly as determined by the group). If needed, meetings may be held in multiple editions to accommodate global time zones.
 
 **Responsibilities:** Chairs, designated Participants or designated Ayra staff will share the invitation, meeting link, and other needed logistics, as well as producing one consolidated set of meeting minutes combining both editions. 
 
@@ -89,10 +165,11 @@ All participants must follow the Ayra [Code of Conduct](/governance-artifacts/co
 
 This WG follows the general Ayra guidance for [Communication](/governance-bodies/working-groups/guidance/guiding-policies.md#communication-policies)
 
-Mailing List: ______@groups.ayra.forum 
+Mailing List: <ayra-card-wg@groups.ayra.forum>
 
 Github Repository:
-- [repo name](link)
+
+- [ayra-card-wg](https://github.com/ayra-forum/ayra-card-wg)
 
 
 ### Decision Policy
