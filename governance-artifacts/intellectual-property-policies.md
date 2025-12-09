@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Intellectual Property Policies
 
 <mark style="color:red;">**THE FOLLOWING CONTENT IS DRAFT AND NOT FORMALIZED.**</mark>&#x20;

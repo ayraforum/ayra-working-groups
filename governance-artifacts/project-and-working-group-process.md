@@ -1,4 +1,8 @@
-# Project & Working Group Process
+---
+hidden: true
+---
+
+# Project & Working Group Process (DRAFT)
 
 ## Introduction
 
