@@ -4,12 +4,8 @@ description: >-
   Switzlerland.
 ---
 
-# Articles
+# Articles & Bylaws
 
 
 
-
-
-DRAFT ARTICLES
-
-The following draft articles are being worked on in advance of the AGM which will be shc
+The corporate articles and bylaws for Ayra Association are being finalized and will be posted here when they are in effect.

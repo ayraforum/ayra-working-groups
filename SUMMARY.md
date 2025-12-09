@@ -3,7 +3,7 @@
 * [Ayra Governance](README.md)
 * [Governance Artifacts](governance-artifacts/README.md)
   * [Ayra: Charter, Purpose, and Principles](governance-artifacts/ayra-charter-purpose-and-principles.md)
-  * [Articles](governance-artifacts/articles.md)
+  * [Articles & Bylaws](governance-artifacts/articles.md)
   * [Code of Conduct](governance-artifacts/code-of-conduct.md)
   * [Antitrust and Competition Policy](governance-artifacts/antitrust-and-competition-policy.md)
   * [Intellectual Property Policies](governance-artifacts/intellectual-property-policies.md)
@@ -11,7 +11,6 @@
   * [Membership](governance-artifacts/membership/README.md)
     * [Application Form](governance-artifacts/membership/application-form.md)
     * [Membership Agreement](governance-artifacts/membership/membership-agreement.md)
-    * 
 * [Governance Bodies](governance-bodies/README.md)
   * [General Assembly](governance-bodies/general-assembly.md)
   * [Transitional Board of Directors](governance-bodies/transitional-board-of-directors.md)
