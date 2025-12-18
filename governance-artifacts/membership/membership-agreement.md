@@ -1,7 +1,7 @@
 # Membership Agreement
 
-Please review the membership agreement at [**this link**](https://hubs.ly/Q03g_1gt0).&#x20;
+Please review the membership agreement here:
 
-This agreement reflects that the Ayra Association is currently in a transitional period, with its operations being transferred to different entities.
+{% file src="../../.gitbook/assets/Ayra Member Agreement [Draft].pdf" %}
 
 Don't hesitate to contact membership@ayra.forum with any questions.
