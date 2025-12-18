@@ -1,3 +1,7 @@
+---
+description: Guiding policies that apply broadly to Working Groups.
+---
+
 # Guiding Policies
 
 ### Communication Policies
