@@ -20,6 +20,8 @@ Unless there is a clear and documented reason otherwise, the following materials
 
 These materials are maintained in public repositories and are accessible without requiring membership or login.
 
+Some artifacts may be developed internally first and released publicly at a later stage, in accordance with timelines and conditions defined in the relevant charter.
+
 ---
 
 ## Member Participation and Editing Rights
@@ -30,13 +32,15 @@ Ayra encourages broad participation and engagement from the community. To ensure
 - Changes to official records follow documented review and approval processes  
 - All substantive changes are traceable through version history  
 
+Non-members may attend public meetings as observers where permitted, but may not contribute verbally, propose changes, or vote unless authorized as members in accordance with the applicable working group charter.
+
 This approach balances openness with responsible stewardship of official records.
 
 ---
 
 ## Decision-Making Transparency
 
-Decisions are made in accordance with the processes defined in Ayra’s governance charter and applicable working group charters.
+Decisions are made in accordance with the processes defined in Ayra’s governance charter and the charters of individual working groups.
 
 When decisions are taken:
 
