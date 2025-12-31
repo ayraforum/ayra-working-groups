@@ -5,6 +5,7 @@
   * [Ayra: Charter, Purpose, and Principles](governance-artifacts/ayra-charter-purpose-and-principles.md)
   * [Articles](governance-artifacts/articles.md)
   * [Code of Conduct](governance-artifacts/code-of-conduct.md)
+  * [Transparency](governance-artifacts/transparency.md)
   * [Antitrust and Competition Policy](governance-artifacts/antitrust-and-competition-policy.md)
   * [Intellectual Property Policies](governance-artifacts/intellectual-property-policies.md)
   * [Project & Working Group Process (DRAFT)](governance-artifacts/project-and-working-group-process.md)
