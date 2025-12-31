@@ -1,18 +1,21 @@
 # **Ayra Card Working Group Charter**
 
-| Charter Status | v0.1, 2025.12.03  |
+| Charter Status | v1.0, 2025.12.31  |
 | :---- | :---- |
-| **Start Date** | YYYY.MM.DD Date of ratification by Board, Board Committee, or Executive Director [\*](#ayra-community-decision-process) |
-| **End Date** | DD/MM/YYYY Start date \+ 1 year (may be renewed by above) |
+| **Start Date** | 2025.12.31 |
+| **End Date** | 2026.12.31 Start date \+ 1 year (may be renewed by above) |
 
 **Chair(s):**
+
+At least one, no more than three.
+
 - Darrell O’Donnell, Ayra
- 
+- TBD
 
 **Participants** 
 
-NOTE: A minimum of 6 total participants, including at least 2 Ayra voting members with different organizational affiliations, are needed to start a working group. (Name, Affiliation, email): 
-- Darrell O’Donnell, Ayra, darrell.odonnell@ayra.forum 
+NOTE: A minimum of 6 total participants, including at least 2 Ayra Members with different organizational affiliations, are needed to start a working group. (Name, Affiliation, email): 
+- Darrell O’Donnell, Ayra, darrell.odonnell(at)ayra.forum 
 - NAME, AFFILIATION NAME, email
 
 ## **1\. Motivation and Background**
@@ -22,30 +25,28 @@ The Ayra Card Working Group (ACWG) is being established to formalize the Ayra Ca
 The ACWG aims to meet the needs of all three pillars of the Ayra community:
 
 * **Business:** establishing the artifacts that the business community needs (e.g. business use cases, integration playbooks, trustmark) to use the Ayra Card protocol in their efforts.
-* **Governance:** establishing governance frameworks, trust frameworks, and policy structures that enable organizations to confidently adopt and implement the Ayra Card protocol in compliance with legal and regulatory requirements.
+* **Governance:** establishing governance frameworks, trust frameworks, and policy structures that enable organizations to confidently adopt and implement the Ayra Card protocol to support the establishment of a global trust layer.
 * **Technology:** developing technical specifications, schemas, reference implementations, and conformance test suites that ensure interoperability and consistent implementation of the Ayra Card protocol across different platforms and vendors.
 
-This working group is being initiated to address the need for a standardized, interoperable approach to digital credential exchange in the identity ecosystem. The Ayra Card protocol has emerged as a promising solution for enabling verifiable credential presentation across diverse use cases, from employee verification to supply chain transparency. However, without formal specifications, governance frameworks, and conformance criteria, implementations risk fragmentation and incompatibility.
+This working group is being initiated to address the need for a standardized, interoperable approach to digital credential exchange in the identity ecosystem. The Ayra Card protocol has emerged as a promising solution for enabling verifiable credential presentation across diverse use cases, from day-to-day personal interations, employee badges use, through to supply chain transparency. However, without formal specifications, governance frameworks, and conformance criteria, implementations risk fragmentation and incompatibility.
 
-The working group brings together implementers, developers, business stakeholders, and governance experts who recognize that successful adoption requires more than just technical specifications. Organizations need clear business cases, integration guidance, trustmarks for vendor selection, and governance frameworks that address privacy, security, and regulatory compliance. The ACWG will create these essential artifacts while maintaining the agility to iterate rapidly through proof-of-concept implementations that validate real-world utility.
+The working group brings together business stakeholders, governance experts, implementers, and developers, who recognize that successful adoption requires more than just technical specifications. Organizations need clear business cases, integration guidance, trustmarks for vendor selection, consistent rituals, and governance frameworks that address privacy, security, and regulatory compliance. The ACWG will create these essential artifacts while maintaining the agility to iterate rapidly through proof-of-concept implementations that validate real-world utility.
 
 ## **2\. Scope**
 
-The Ayra Card Working Group is responsible for establishing the business, governance, and technical artifacts required for the Ayra Card protocol. 
+The Ayra Card Working Group is responsible for establishing the business, governance, and technical artifacts required for the Ayra Card Protocol. [note: the term "protocol" is being used as a business and marketing term here.]
 
 The following will constitute the activities and interest areas of this working group:
 
-* Governing the **Ayra Card Proof of Concept** process, which is an ongoing set of short (60-90 day) iterations that aim to demonstrate business utility.
-* Establishment of conformance criteria that will be used in the Ayra Conformance Test Suite (CTS). 
-* Governing the Ayra Card aspects of the Conformance Test Suite (CTS).
-* Establishment of schema, context documents, presentation request, and other artifacts required for full system conformance.
-* Creation of business material to bolster the case for the Ayra Card protocol.
-* Establishment and guidance of the Ayra Card Governance Framework. 
+- Governing the **Ayra Card Proof of Concept** process, which is an ongoing set of short (60-90 day) iterations that aim to demonstrate business utility.
+- Establishment of conformance criteria that will be used in the [Ayra Conformance Test Suite (CTS)](https://github.com/ayraforum/conformance-test-suite). 
+- Governing the Ayra Card aspects of the Ayra Conformance Test Suite.
+- Establishment of schema, context documents, presentation request, and other artifacts required for full system conformance.
+- Creation of business material to bolster the case for the Ayra Card protocol.
+- Establishment and guidance of the Ayra Card Governance Framework. 
 
 
 ### **2.1 Out of Scope**
-
-What areas or activities will not be addressed?
 
 The following will *not* be addressed by this working group:
 
