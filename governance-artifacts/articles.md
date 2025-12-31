@@ -4,12 +4,10 @@ description: >-
   Switzlerland.
 ---
 
-# Articles
+# Articles & Bylaws
 
+The corporate articles and bylaws for Ayra Association are presented here:
 
+{% file src="../.gitbook/assets/Ayra Association - Revised Articles of Association(8006191.15).pdf" %}
 
-
-
-DRAFT ARTICLES
-
-The following draft articles are being worked on in advance of the AGM which will be shc
+{% file src="../.gitbook/assets/Ayra Association - Bylaws(8019345.12).pdf" %}
